@@ -1,5 +1,6 @@
 #include <iostream>
 using std::string;
+//trying to implement all aspects off oop
 
 class abstractEmployee {
 	virtual void askForPromotion() = 0;
