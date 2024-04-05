@@ -90,5 +90,4 @@ int main() {
 	Developer d = Developer("Mark", "google", 30, "C++");
 	Teacher t = Teacher("John", "CPH", 45, "History");
 
-	Employee* e = &d;
 }
